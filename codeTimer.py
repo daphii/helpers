@@ -1,10 +1,16 @@
 import timeit
 
-mysetup = ""
+mysetup = """
 
-mycode = ''''''
+"""
 
-mycode2 = ''''''
+mycode = '''
+
+'''
+
+mycode2 = '''
+
+'''
 
 numOfExecutions = 10000
 
